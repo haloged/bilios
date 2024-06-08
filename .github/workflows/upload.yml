@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: xuanli199/xuanli199.github.io
+          repository: haloged/bilios
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
